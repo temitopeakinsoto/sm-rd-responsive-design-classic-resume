@@ -1,0 +1,23 @@
+main {
+    border: 1px solid red;
+    padding: 12% 10%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-image {
+    width: 45%;
+    border: 1px solid red;
+}
+
+.details {
+    width: 45%;
+    border: 1px solid red;
+    line-height: 2ch; 
+    font-size: 20px;
+    font-weight: 900;
+
+}
